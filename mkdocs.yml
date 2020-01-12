@@ -1,6 +1,7 @@
 site_name: The Engineering Collective
 nav: 
     - Home: index.md    
+    - Using This Collective: how-to-use.md
     - Quests: 
         - 'About' : 'quests/index.md'
         - 'Java Engineer' : 'quests/java-engineer/index.md'
@@ -38,5 +39,6 @@ nav:
                 - 'About' : 'skills/non-technical/leadership/index.md'
             - Soft:
                 - 'About' : 'skills/non-technical/soft/index.md'
+    - Contributing: contributing.md
 
 theme: readthedocs
