@@ -1,0 +1,7 @@
+site_name: The Engineering Collective
+nav: 
+    - Home: index.md    
+    - Quests: quests/index.md
+    - Skills: skills/index.md
+
+theme: readthedocs
