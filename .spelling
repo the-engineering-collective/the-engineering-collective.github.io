@@ -1,0 +1,46 @@
+# markdown-spellcheck spelling configuration file
+# Format - lines beginning # are comments
+# global dictionary is at the start, file overrides afterwards
+# one word per line, to define a file override use ' - filename'
+# where filename is relative to this configuration file
+gitbook
+maven
+lifecycle
+plugins
+intellij
+junit
+keymap
+cheatsheet
+jetbrains
+hamcrest
+javac
+java
+javadoc
+classpath
+hashcode
+developer.md
+html.md
+css.md
+IoC
+inc
+uml-user
+linter
+redux
+div
+alt
+src
+href
+Pluralsight
+Frontend
+gradle
+mockito
+Vue
+VSCode
+CircleCI
+meetups
+npm
+package.json
+Webpack
+webpack
+survivejs
+mis-matching

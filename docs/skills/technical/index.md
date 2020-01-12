@@ -1,13 +1,8 @@
-# Skills
-
-Skills are broken down into the following categories;
-
-* [Technical](./technical/index.md)
-* [Non-technical](./non-technical/index.md)
-
-## Technical
+# Technical Skills
 
 Technical skills are _any_ skills which fall under a technical level, e.g. programming languages, frameworks, tooling etc. 
+
+The following categories exist for technical skills. Can't spot one that fits the skill you want to learn, or maybe there should be more categories that need adding? See the [contributing](../../contributing.md) section to see how you can help improve this collective.
 
 ### Design
 
@@ -24,11 +19,3 @@ The Languages category houses all language related skills.
 ### Tooling
 
 The Tooling category houses all tooling related skills.
-
-## Non-technical
-
-Non-technical skills are _any_ skills which fall under a non-technical level, e.g. ways of working (agile), documentation, leadership etc.
-
-### Soft Skills
-
-The Soft Skills category houses all soft skills

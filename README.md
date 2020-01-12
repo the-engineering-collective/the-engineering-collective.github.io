@@ -1,6 +1,6 @@
 # The Engineering Collective
 
-The Engineering Collective is a GitBook created by the community containing a breadth of learning materials. Read the [book](https://gwolverson.gitbook.io/the-engineering-collective/) to learn more. 
+The Engineering Collective is a GitBook created by the community containing a breadth of learning materials. Read the [book](https://gwolverson.github.io/engineering-collective/) to learn more. 
 
 ## Mission Statement
 
@@ -33,14 +33,14 @@ The content of this book _should_ be community driven. To that end, here's how y
 
 #### Creating a Quest
 
-   1. Create a new 'Quest' folder beneath `./book/quests/` - naming conventions: lower case, hyphenated, e.g. `kotlin-engineer`
-   2. Add a `README.md` file to the root of this folder (e.g. `kotlin-engineer/README.md`) outlining the Quest and the list of skills to learn (see another Quest README file for an example)
+   1. Create a new 'Quest' folder beneath `./docs/quests/` - naming conventions: lower case, hyphenated, e.g. `kotlin-engineer`
+   2. Add a `index.md` file to the root of this folder (e.g. `kotlin-engineer/index.md`) outlining the Quest and the list of skills to learn (see another Quest README file for an example)
 
 #### Creating a Skill
 
-   1. Decide whether the Skill is [technical](./book/skills/technical/README.md) or [non-technical](./book/skills/non-technical/README.md)
+   1. Decide whether the Skill is [technical](./docs/skills/technical/index.md) or [non-technical](./docs/skills/non-technical/index.md)
    2. Choose the _category_ the Skill should sit within, if no category exists, create one:
-      1. Add a new folder for the category beneath the relevant technical/non-technical folder, and a `README.md` file at the root, explaining what type of skills the category encapsulates
+      1. Add a new folder for the category beneath the relevant technical/non-technical folder, and a `index.md` file at the root, explaining what type of skills the category encapsulates
    3. If the category already exists or after creating a new category:
       1. Create a new Skill markdown file under the relevant category - naming conventions: lower case, hyphenated, e.g. `gradle.md` - when creating the new 'Skill' document, please refer to the [Skill Template](skill-template.md) markdown file.
     4. When you're happy with your new content, please issue a pull request back into this repository

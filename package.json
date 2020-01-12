@@ -1,0 +1,22 @@
+{
+  "name": "the-engineering-collective",
+  "version": "1.0.0",
+  "description": "The Engineering Collective is a GitBook created by the community containing a breadth of learning materials. Read the [book](https://gwolverson.github.io/engineering-collective/) to learn more.",
+  "scripts": {
+    "lint": "npm run spelling",
+    "spelling": "node_modules/markdown-spellcheck/bin/mdspell '**/*.md' '!LICENSE.md' '!**/node_modules/**/*.md' -n -a -x --en-gb -r"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gwolverson/engineering-collective.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gwolverson/engineering-collective/issues"
+  },
+  "homepage": "https://github.com/gwolverson/engineering-collective#readme",
+  "dependencies": {
+    "markdown-spellcheck": "^1.3.1"
+  }
+}

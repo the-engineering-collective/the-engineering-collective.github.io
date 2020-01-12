@@ -1,7 +1,42 @@
 site_name: The Engineering Collective
 nav: 
     - Home: index.md    
-    - Quests: quests/index.md
-    - Skills: skills/index.md
+    - Quests: 
+        - 'About' : 'quests/index.md'
+        - 'Java Engineer' : 'quests/java-engineer/index.md'
+        - 'React Engineer' : 'quests/react-engineer/index.md'
+    - Skills: 
+        - 'About' : 'skills/index.md'
+        - Technical:
+            - 'About' : 'skills/technical/index.md'
+            - Design:
+                - 'About' : 'skills/technical/design/index.md'
+                - 'Design Patterns' : 'skills/technical/design/design-patterns.md'
+                - 'Development Principles' : 'skills/technical/design/development-principles.md'
+                - 'Object Oriented Design' : 'skills/technical/design/object-oriented-design.md'
+            - Framework:
+                - 'About' : 'skills/technical/frameworks/index.md'
+                - 'JUnit' : 'skills/technical/frameworks/junit.md'
+                - 'React' : 'skills/technical/frameworks/react.md'
+            - Languages:
+                - 'About' : 'skills/technical/languages/index.md'
+                - 'Java' : 'skills/technical/languages/java.md'
+                - 'JavaScript' : 'skills/technical/languages/javascript.md'
+                - 'HTML' : 'skills/technical/languages/html.md'
+                - 'CSS' : 'skills/technical/languages/css.md'
+            - Languages:
+                - 'About' : 'skills/technical/tooling/index.md'
+                - 'Git' : 'skills/technical/tooling/git.md'
+                - 'Maven' : 'skills/technical/tooling/maven.md'
+                - 'NPM' : 'skills/technical/tooling/npm.md'
+                - 'Webpack' : 'skills/technical/tooling/webpack.md'
+                - 'Yarn' : 'skills/technical/tooling/yarn.md'
+                - 'Intellij' : 'skills/technical/tooling/intellij-ide.md'
+        - Non-technical:
+            - 'About' : 'skills/non-technical/index.md'
+            - Leadership:
+                - 'About' : 'skills/non-technical/leadership/index.md'
+            - Soft:
+                - 'About' : 'skills/non-technical/soft/index.md'
 
 theme: readthedocs
