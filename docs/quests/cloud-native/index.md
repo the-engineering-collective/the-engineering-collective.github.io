@@ -18,6 +18,16 @@ What makes a Cloud Native Engineer, or more importantly a _good_ Cloud Native En
   * [Pluralsight AWS Certified Developer – Associate Path](https://app.pluralsight.com/paths/certificate/aws-certified-developer-associate)
   * [Pluralsight Google Cloud Certified Associate Cloud Engineer Path](https://app.pluralsight.com/paths/certificate/cloud-engineering-with-google-cloud)
   * [Pluralsight Microsoft Azure Fundamentals Path](https://app.pluralsight.com/paths/certificate/microsoft-azure-fundamentals-az-900)
+#### AWS
+* [Identity Access Management (IAM) - AWS Documentation](https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction.html)
+* [Elastic Compute Cloud (EC2) - AWS Documentation](https://docs.aws.amazon.com/ec2/?id=docs_gateway)
+* [Virtual Private Cloud (VPC) - AWS Documentation](https://docs.aws.amazon.com/vpc/?id=docs_gateway)
+* [Route53 - AWS Documentation](https://docs.aws.amazon.com/ec2/?id=docs_gateway)
+* [Simple Storage Service (S3) - AWS Documentation](https://docs.aws.amazon.com/s3/?id=docs_gateway)
+* [Simple Queue Service (SQS) - AWS Documentation](https://docs.aws.amazon.com/sqs/?id=docs_gateway)
+* [Simple Notification Service (SNS) - AWS Documentation](https://docs.aws.amazon.com/sns/?id=docs_gateway)
+* [Relational Database Service (RDS) - AWS Documentation](https://docs.aws.amazon.com/rds/?id=docs_gateway)
+* [DynamoDB - AWS Documentation](https://docs.aws.amazon.com/dynamodb/?id=docs_gateway)
 
 ### Containerisation
   * [Pluralsight Getting Started with Docker](https://app.pluralsight.com/library/courses/docker-getting-started/table-of-contents)
