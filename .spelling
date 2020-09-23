@@ -57,8 +57,9 @@ xml
 Github
 Route53
 DynamoDB
-Kubernetes
-Rkt
 containerd
 OpenShift
+Kubernetes
+Kubectl
 kubectl
+Rkt
