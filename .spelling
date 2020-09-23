@@ -55,3 +55,10 @@ png
 img
 xml
 Github
+Route53
+DynamoDB
+Kubernetes
+Rkt
+containerd
+OpenShift
+kubectl
