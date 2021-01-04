@@ -5,6 +5,7 @@ nav:
     - Quests: 
         - 'Quests' : 'quests/index.md'
         - 'Java Quest' : 'quests/java/index.md'
+        - 'JavaScript Quest' : 'quests/javascript/index.md'
         - 'React Quest' : 'quests/react/index.md'  
         - 'Cloud Native Quest' : 'quests/cloud-native/index.md' 
     - Contributing: contributing.md
